@@ -25,5 +25,5 @@ This repo contains practical **Ansible playbooks and automation projects** that 
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/ansible-projects
+git clone https://github.com/himanshusharma1173/ansible-projects
 cd ansible-projects
