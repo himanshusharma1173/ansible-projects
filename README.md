@@ -5,14 +5,14 @@ This repo contains practical **Ansible playbooks and automation projects** that 
 
 ---
 
-## 📌 Projects Included
+## Projects Included
 
 - **Nginx Setup Playbook** → Installs & starts Nginx on target servers  
 - (More coming soon… 🚀)  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Ansible** → For automation & orchestration  
 - **YAML** → For writing playbooks  
@@ -21,7 +21,7 @@ This repo contains practical **Ansible playbooks and automation projects** that 
 
 ---
 
-## ⚡ How to Run
+## How to Run
 
 1. Clone the repo:
 ```bash
