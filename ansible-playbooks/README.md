@@ -10,4 +10,4 @@ It’s a simple automation example to get hands-on with Ansible playbooks.
 - At least **one worker node** accessible via SSH
 - Passwordless SSH authentication set up between control & worker  
   (`ssh-keygen` or AWS key pair)
-- Create an inventory file and put the server private ips      # Defines worker nodes
+- Create an inventory file and put the server private ips     
