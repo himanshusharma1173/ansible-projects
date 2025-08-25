@@ -1,10 +1,12 @@
-# Ansible Playbooks 🚀
+# Nginx Setup with Ansible 🚀
 
-This repository contains my Ansible practice projects, starting with installing and configuring **Nginx** on a target server.
+This project contains my **first Ansible Playbook** that installs and starts **Nginx** on a target server.  
+It’s a simple automation example to get hands-on with Ansible playbooks.  
 
-## 📌 Playbooks
-- **nginx.yml** → Installs and starts Nginx on a worker node.
+---
 
-## 📌 Inventory
-- Defined inside `inventory/hosts`
-- Example:
+## ✅ Prerequisites
+- Ansible installed on **control node**
+- At least **one worker node** accessible via SSH
+- Passwordless SSH authentication set up between control & worker  
+  (`ssh-keygen` + `ssh-copy-id` or AWS key pair)
