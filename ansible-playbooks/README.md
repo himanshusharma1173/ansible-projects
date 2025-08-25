@@ -9,4 +9,4 @@ It’s a simple automation example to get hands-on with Ansible playbooks.
 - Ansible installed on **control node**
 - At least **one worker node** accessible via SSH
 - Passwordless SSH authentication set up between control & worker  
-  (`ssh-keygen` + `ssh-copy-id` or AWS key pair)
+  (`ssh-keygen` or AWS key pair)
